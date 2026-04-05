@@ -1,0 +1,14 @@
+D:\labwork7task3\labwork7task3\bin\Debug\net9.0\labwork7task3.exe
+D:\labwork7task3\labwork7task3\bin\Debug\net9.0\labwork7task3.deps.json
+D:\labwork7task3\labwork7task3\bin\Debug\net9.0\labwork7task3.runtimeconfig.json
+D:\labwork7task3\labwork7task3\bin\Debug\net9.0\labwork7task3.dll
+D:\labwork7task3\labwork7task3\bin\Debug\net9.0\labwork7task3.pdb
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.AssemblyInfoInputs.cache
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.AssemblyInfo.cs
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.csproj.CoreCompileInputs.cache
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.dll
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\refint\labwork7task3.dll
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.pdb
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.genruntimeconfig.cache
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\ref\labwork7task3.dll
