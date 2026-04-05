@@ -7,19 +7,21 @@ namespace Labwork7
         static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            
+
             Func<double, double> discountCalculator = null;
-            
-            discountCalculator += price => price * 0.95;  // -5%
-            discountCalculator += price => price * 0.90;  // -10%
-            discountCalculator += price => price - 100;   // -100 грн
+            discountCalculator += price => price * 0.95;
+            discountCalculator += price => price * 0.90;
+            discountCalculator += price => price - 100;
 
-            double initialPrice = 1000;
+            double currentPrice = 1000;
+            Console.WriteLine($"Початкова ціна: {currentPrice}");
             
-            double result = discountCalculator(initialPrice);
+            foreach (Func<double, double> discountStep in discountCalculator.GetInvocationList())
+            {
+                currentPrice = discountStep(currentPrice);
+            }
 
-            Console.WriteLine($"Початкова ціна: {initialPrice}");
-            Console.WriteLine($"Результат стандартного виклику: {result} (Очікувано 900)");
+            Console.WriteLine($"Фінальна ціна після конвеєру: {currentPrice}");
         }
     }
 }

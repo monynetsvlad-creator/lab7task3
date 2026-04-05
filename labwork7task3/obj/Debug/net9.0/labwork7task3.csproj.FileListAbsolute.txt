@@ -12,3 +12,4 @@ D:\labwork7task3\labwork7task3\obj\Debug\net9.0\refint\labwork7task3.dll
 D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.pdb
 D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.genruntimeconfig.cache
 D:\labwork7task3\labwork7task3\obj\Debug\net9.0\ref\labwork7task3.dll
+D:\labwork7task3\labwork7task3\obj\Debug\net9.0\labwork7task3.sourcelink.json
